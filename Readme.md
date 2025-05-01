@@ -1,4 +1,6 @@
 # Calculadora distribuida python
+Aluno: Gustavo Mota Barros
+Matricula: 202104971
 
 ## Biblioteca Utilizada
  - Pyro5
