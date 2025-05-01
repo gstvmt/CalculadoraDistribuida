@@ -1,5 +1,5 @@
 # Calculadora distribuida python
-Aluno: Gustavo Mota Barros
+Aluno: Gustavo Mota Barros\n
 Matricula: 202104971
 
 ## Biblioteca Utilizada
